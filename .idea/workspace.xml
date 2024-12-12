@@ -5,6 +5,11 @@
       <config />
     </shared>
     <layouts>
+      <layout url="file://$PROJECT_DIR$/FLUTTER_2/app/src/main/res/layout/activity_login.xml">
+        <config>
+          <theme>@style/Theme.CV</theme>
+        </config>
+      </layout>
       <layout url="file://$PROJECT_DIR$/FLUTTER_2/app/src/main/res/layout/activity_main.xml">
         <config>
           <theme>@style/Theme.CV</theme>
@@ -50,16 +55,6 @@
           <theme>@style/Theme.CV</theme>
         </config>
       </layout>
-      <layout url="file://$PROJECT_DIR$/FLUTTER_2/app/src/main/res/menu/bottom_nav_menu.xml">
-        <config>
-          <theme>@style/Theme.CV</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/FLUTTER_2/app/src/main/res/menu/main.xml">
-        <config>
-          <theme>@style/Theme.CV</theme>
-        </config>
-      </layout>
       <layout url="file://$PROJECT_DIR$/FLUTTER_2/app/src/main/res/navigation/mobile_navigation.xml">
         <config>
           <theme>@style/Theme.CV</theme>
@@ -73,9 +68,11 @@
   <component name="ChangeListManager">
     <list default="true" id="1cd5775c-9414-4e7d-a776-c34dbb63cfb5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FLUTTER_2/app/src/main/java/com/example/cv/ui/home/HomeFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/FLUTTER_2/app/src/main/java/com/example/cv/ui/home/HomeFragment.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FLUTTER_2/app/src/main/java/com/example/cv/ui/home/HomeViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/FLUTTER_2/app/src/main/java/com/example/cv/ui/home/HomeViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FLUTTER_2/app/src/main/java/com/example/cv/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/FLUTTER_2/app/src/main/java/com/example/cv/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FLUTTER_2/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FLUTTER_2/app/src/main/res/layout/activity_main.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FLUTTER_2/app/src/main/res/layout/fragment_home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FLUTTER_2/app/src/main/res/layout/fragment_home.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FLUTTER_2/app/src/main/res/menu/activity_main_drawer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FLUTTER_2/app/src/main/res/menu/activity_main_drawer.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FLUTTER_2/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FLUTTER_2/app/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,6 +130,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="valueResourceFile" />
+        <option value="layoutResourceFile" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -181,7 +180,10 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/ACER/OneDrive/Documents/GitHub/AppDev/FLUTTER_2/app/src/main/res/drawable"
+    "last_opened_file_path": "C:/Users/ACER/OneDrive/Documents/GitHub/AppDev/FLUTTER_2/app/src/main/res/drawable",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.17",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="RecentsManager">
