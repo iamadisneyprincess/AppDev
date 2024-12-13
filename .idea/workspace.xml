@@ -67,12 +67,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1cd5775c-9414-4e7d-a776-c34dbb63cfb5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/deploymentTargetSelector.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deploymentTargetSelector.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FLUTTER_2/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FLUTTER_2/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FLUTTER_2/app/src/main/java/com/example/cv/LoginActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/FLUTTER_2/app/src/main/java/com/example/cv/ui/login/LoginActivity.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FLUTTER_2/app/src/main/java/com/example/cv/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/FLUTTER_2/app/src/main/java/com/example/cv/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FLUTTER_2/app/src/main/res/layout/activity_login.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FLUTTER_2/app/src/main/res/layout/activity_login.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FLUTTER_2/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FLUTTER_2/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FLUTTER_2/app/src/main/res/layout/fragment_home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FLUTTER_2/app/src/main/res/layout/fragment_home.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FLUTTER_2/app/src/main/res/menu/activity_main_drawer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FLUTTER_2/app/src/main/res/menu/activity_main_drawer.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FLUTTER_2/app/src/main/res/values-night/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FLUTTER_2/app/src/main/res/values-night/themes.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FLUTTER_2/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FLUTTER_2/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FLUTTER_2/app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FLUTTER_2/app/src/main/res/values/themes.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +86,7 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[DeviceId(pluginId=PhysicalDevice, isTemplate=false, identifier=serial=1171015438002692)]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[DeviceId(pluginId=LocalEmulator, isTemplate=false, identifier=path=C:\Users\ACER\.android\avd\Pixel_7_API_35.avd)]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$/FLUTTER_2">
       <ProjectState />
@@ -180,7 +184,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/ACER/OneDrive/Documents/GitHub/AppDev/FLUTTER_2/app/src/main/res/drawable",
+    "last_opened_file_path": "C:/Users/ACER/OneDrive/Documents/GitHub/AppDev",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.17",
     "project.structure.side.proportion": "0.2"
@@ -189,6 +193,9 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ACER\OneDrive\Documents\GitHub\AppDev\FLUTTER_2\app\src\main\res\drawable" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.example.cv.ui.login" />
     </key>
   </component>
   <component name="RunManager" selected="Android App.CV.app">
